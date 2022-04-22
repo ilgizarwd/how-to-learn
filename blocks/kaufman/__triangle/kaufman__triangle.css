@@ -4,4 +4,5 @@
     position: absolute;
     right: -210px;
     background-image: url(kaufman-triangle.svg);
+    background-size: cover;
   }
